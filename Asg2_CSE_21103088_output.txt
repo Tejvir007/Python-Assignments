@@ -1,0 +1,37 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS E:\cprgms> & C:/Users/DELLS/AppData/Local/Programs/Python/Python310/python.exe e:/cprgms/Assign2_input.py
+Question 1
+a. Length of the string is :  35
+b. Reversed String is :  egaugnal evitisnes esac a si nohtyP
+c. New String :  is a case sensitive
+d. String after replacing :  Python is an object oriented language
+e. Index of substring 'a' in the given string is:  10
+f. String after removing white spaces:  Pythonisacasesensitivelanguage
+Question 2
+Hey, Tejvir here
+My SID is 21103088
+I am from CSE department and my CGPA is 9.9
+Question 3
+a & b is : 8
+a | b is : 58
+a ^ b is : 50
+a << 2 equals 224 and b << 2 equals 40
+a >> 2 equals 14 and b >> 4 equals 0
+Question 4
+Enter frist number : 10
+Enter second number : 12
+Enter third number : 14
+Largest number is 14
+Question 5
+Enter a String my name is Tejvir
+YES
+Question 6
+Enter first length 13
+Enter second length 15
+Enter third length 17
+Triangle is possible
+PS E:\cprgms>
