@@ -7,7 +7,7 @@ PS E:\Assignments> & C:/Users/DELLS/AppData/Local/Programs/Python/Python310/pyth
 Question 1 
 
 Enter the string : My name is Tejvir
-{'My': 1, 'name': 1, 'is': 1, 'Tejvir': 1}
+{'my': 1, 'name': 1, 'is': 1, 'tejvir': 1}
 Question 2
 
 Enter the month : 2
