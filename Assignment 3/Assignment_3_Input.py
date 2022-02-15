@@ -1,6 +1,6 @@
 # Question 1
 print("Question 1 \n")
-str=input("Enter the string : ")
+str=input("Enter the string : ").lower()
 words=str.split()                      # to split the string into a list of words
 word_count=words.__len__()             # stores number of words in the string
 dict={}
